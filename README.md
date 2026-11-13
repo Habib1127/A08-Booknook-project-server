@@ -2,7 +2,11 @@
 
 Express + MongoDB API for **BookNook – A Small Online Library**.
 
-**Live API:** _add your deployed URL here_  ·  **Client repo:** _add link_
+Live Link Client and main front-end: https://a08-booknook-project-client.vercel.app
+
+Live link server side :https://a08-booknook-project-server.vercel.app
+
+Client side github repo link : https://github.com/Habib1127/A08-Booknook-project-client
 
 ## Features
 - 8 REST routes for books and borrows
